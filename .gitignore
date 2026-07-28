@@ -42,3 +42,6 @@ next-env.d.ts
 /.dev-*.log
 /outputs/
 /work/
+/.wrangler-auth/
+/.tmp-cloudflare-login.*
+/tmp/

@@ -158,7 +158,7 @@ details p { max-width: 640px; margin: -8px 0 28px; color: rgba(255,255,255,.58);
 .contact-card .contact-instagram .instagram-icon { width: 17px; height: 17px; }
 
 footer { padding: 70px clamp(24px, 6vw, 92px) 25px; color: white; background: var(--black); }
-.footer-top { max-width: var(--max); margin: auto; display: grid; grid-template-columns: .8fr 1fr 1fr auto; align-items: end; gap: 50px; padding-bottom: 60px; }
+.footer-top { max-width: var(--max); margin: auto; display: grid; grid-template-columns: .8fr 1fr 1fr auto; align-items: center; gap: 50px; padding-bottom: 60px; }
 .footer-top p { max-width: 350px; margin: 0; color: rgba(255,255,255,.52); font-size: 14px; line-height: 1.6; }
 .footer-top > a { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; }
 .footer-socials { display: grid; gap: 12px; }

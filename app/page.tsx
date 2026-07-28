@@ -245,6 +245,7 @@ export default function Home() {
           <nav className="footer-socials" aria-label="Instagram">
             <a href="https://instagram.com/nucleotc" target="_blank" rel="noreferrer"><InstagramIcon /><span>@nucleotc</span></a>
             <a href="https://www.instagram.com/drtalescavalcante/" target="_blank" rel="noreferrer"><InstagramIcon /><span>@drtalescavalcante</span></a>
+            <a href="https://www.instagram.com/luanaabreunutri/" target="_blank" rel="noreferrer"><InstagramIcon /><span>@luanaabreunutri</span></a>
           </nav>
           <a href="#inicio">Voltar ao topo ↑</a>
         </div>
