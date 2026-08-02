@@ -233,7 +233,7 @@ export default function Home() {
         <div className="contact-card reveal">
           <p className="placeholder-label">INFORMAÇÕES PARA PREENCHER</p>
           <div><span>WhatsApp</span><a className="contact-whatsapp" href={WHATSAPP_URL} target="_blank" rel="noreferrer"><WhatsAppIcon tone="dark" /> +55 85 9684-0106</a></div>
-          <div><span>Endereço</span><strong>Rua / Avenida, número<br />Cidade — UF</strong></div>
+          <div><span>Endereço</span><strong>Rua Antonele Bezerra, 168<br />Sala 10 / Meireles</strong></div>
           <div><span>Instagram</span><a className="contact-instagram" href="https://instagram.com/nucleotc" target="_blank" rel="noreferrer"><InstagramIcon tone="dark" /> @nucleotc</a></div>
         </div>
       </section>
