@@ -116,17 +116,14 @@ export default function Home() {
         </div>
         <div className="pillar-list">
           <article className="pillar reveal">
-            <span className="pillar-number">01</span>
             <div><h3>Avaliação integral</h3><p>Uma leitura atenta do seu histórico, exames, composição corporal, hábitos e objetivos.</p></div>
             <span className="pillar-icon" aria-hidden="true">＋</span>
           </article>
           <article className="pillar reveal">
-            <span className="pillar-number">02</span>
             <div><h3>Estratégia individual</h3><p>Condutas médicas e nutricionais construídas para você — sem fórmulas prontas ou soluções genéricas.</p></div>
             <span className="pillar-icon" aria-hidden="true">⌁</span>
           </article>
           <article className="pillar reveal">
-            <span className="pillar-number">03</span>
             <div><h3>Acompanhamento próximo</h3><p>Evolução observada com cuidado, diálogo e ajustes responsáveis ao longo do processo.</p></div>
             <span className="pillar-icon" aria-hidden="true">○</span>
           </article>
