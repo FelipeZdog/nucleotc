@@ -86,7 +86,6 @@ export default function Home() {
             <div className="hero-orbit" aria-hidden="true" />
             <img className="hero-mark" src="/brand/icon-light.png" alt="" width={620} height={580} />
             <p className="hero-note">Ciência para entender.<br />Estratégia para transformar.</p>
-            <span className="hero-index">01 / 05</span>
           </div>
         </div>
         <div className="hero-footer" aria-hidden="true">
@@ -161,10 +160,10 @@ export default function Home() {
           <p>O caminho é individual. O cuidado, contínuo.</p>
         </div>
         <div className="steps">
-          <article className="step reveal"><span>01</span><h3>Primeiro contato</h3><p>Nossa equipe acolhe sua necessidade e orienta sobre o agendamento.</p></article>
-          <article className="step reveal"><span>02</span><h3>Avaliação completa</h3><p>Uma consulta detalhada para compreender seu contexto, saúde e objetivos.</p></article>
-          <article className="step reveal"><span>03</span><h3>Plano integrado</h3><p>Definição de uma estratégia médica e nutricional alinhada à sua realidade.</p></article>
-          <article className="step reveal"><span>04</span><h3>Evolução acompanhada</h3><p>Reavaliações e ajustes com atenção ao que o seu corpo comunica.</p></article>
+          <article className="step reveal"><h3>Primeiro contato</h3><p>Nossa equipe acolhe sua necessidade e orienta sobre o agendamento.</p></article>
+          <article className="step reveal"><h3>Avaliação completa</h3><p>Uma consulta detalhada para compreender seu contexto, saúde e objetivos.</p></article>
+          <article className="step reveal"><h3>Plano integrado</h3><p>Definição de uma estratégia médica e nutricional alinhada à sua realidade.</p></article>
+          <article className="step reveal"><h3>Evolução acompanhada</h3><p>Reavaliações e ajustes com atenção ao que o seu corpo comunica.</p></article>
         </div>
       </section>
 
