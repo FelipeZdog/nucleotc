@@ -135,7 +135,7 @@ export default function Home() {
 
       <section className="experience section">
         <div className="experience-image reveal">
-          <img src="/images/recepcao.webp" alt="Projeto de ambiente acolhedor da recepção do Núcleo TC" width={1920} height={1080} loading="lazy" />
+          <img src="/images/recepcao.webp" alt="Recepção do Núcleo TC com área de espera e identidade visual da clínica" width={1400} height={1600} loading="lazy" />
           <div className="image-label"><span>Um espaço pensado</span><span>para receber você.</span></div>
         </div>
         <div className="experience-copy reveal">
